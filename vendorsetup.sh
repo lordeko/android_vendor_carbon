@@ -2,6 +2,7 @@ add_lunch_combo carbon_bacon-userdebug
 add_lunch_combo carbon_e975-userdebug
 add_lunch_combo carbon_flo-userdebug
 add_lunch_combo carbon_hammerhead-userdebug
+add_lunch_combo carbon_hlte-userdebug
 add_lunch_combo carbon_hltetmo-userdebug
 add_lunch_combo carbon_i9100-userdebug
 add_lunch_combo carbon_m7-userdebug
